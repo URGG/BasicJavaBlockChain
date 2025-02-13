@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "BChain/src"
+    ],
+    "java.project.referencedLibraries": [
+        "/Users/georgeurgiles/Downloads/gson-2.6.2.jar"
+    ]
+}
